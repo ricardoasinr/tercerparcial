@@ -99,7 +99,7 @@ class _ProfilePageState extends State<ProfilePage> {
                       child: ClipRRect(
                         borderRadius: BorderRadius.circular(300),
                         child: Image.network(
-                            'https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA='),
+                            'https://previews.123rf.com/images/rastudio/rastudio1602/rastudio160203705/52371014-un-doctor-que-sostiene-la-jeringa-con-la-medicaci%C3%B3n-en-el-fondo-de-la-sala-de-hospital-ilustraci%C3%B3n-v.jpg'),
                       ),
                     ),
                   )),

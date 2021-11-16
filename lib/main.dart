@@ -55,7 +55,7 @@ class _HomePageState extends State<HomePage> {
                 child: ClipRRect(
                   borderRadius: BorderRadius.circular(50),
                   child: Image.network(
-                      'https://scontent.fsrz1-2.fna.fbcdn.net/v/t1.6435-9/116431939_4172510946124316_3243430972913845241_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=bc8Yefi_XsoAX-8rZL9&tn=X2rm6ABdJ5VZNYX2&_nc_ht=scontent.fsrz1-2.fna&oh=918f9a71fe0fa6fabdedb6ed77e329f3&oe=61AFC324'),
+                      'https://lh3.googleusercontent.com/a-/AOh14GiG9_IdAaVPHPeAWATQc2JJMCaAGyRoVRCNO7B_eQ=s128-p-k-rw-no'),
                 )),
           )
         ],
@@ -137,8 +137,7 @@ class _HomePageState extends State<HomePage> {
                             );
                           },
                           child: Text('BISA'),
-                          style:
-                              ElevatedButton.styleFrom(primary: Colors.red),
+                          style: ElevatedButton.styleFrom(primary: Colors.red),
                         ),
                       ),
                       Container(
@@ -172,9 +171,8 @@ class _HomePageState extends State<HomePage> {
                         ),
                       ),
                       SizedBox(
-                height: 30,
-              ),
-              
+                        height: 30,
+                      ),
                     ],
                   ),
                 ),
@@ -212,14 +210,14 @@ class _HomePageState extends State<HomePage> {
                           );
                         }),
                   )),*/
-                  
+
               SizedBox(
                 height: 30,
               ),
-              post(1.2, 'https://plustatic.com/43/conversions/ramas-medicina-social.jpg'),
+              post(1.2,
+                  'https://plustatic.com/43/conversions/ramas-medicina-social.jpg'),
               post(1.3,
                   'https://blog.ida.cl/wp-content/uploads/sites/5/2020/03/medicina-tecnologia-blog.png'),
-              
             ],
           ),
         ),
